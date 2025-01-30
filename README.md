@@ -16,4 +16,3 @@
 * [x] The first player (X) makes a move by clicking an empty cell.
 * [x] The second player (O) makes their move.
 * [x] The game continues until a player wins or the board is full (draw).
-* [x] A reset button is available to restart the game.
