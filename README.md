@@ -5,14 +5,13 @@
 * [x] Play against another player
 * [x] Interactive UI
 * [x] Tracks the winner
-* [x] Responsive design
-2. Technologies Used
+1. Technologies Used
 * [x] React
 * [x] JavaScript (ES6+)
 * [x] HTML
 * [x] CSS
  
-3. How to Play
+1. How to Play
 * [x] Open the application in your browser.
 * [x] The first player (X) makes a move by clicking an empty cell.
 * [x] The second player (O) makes their move.
