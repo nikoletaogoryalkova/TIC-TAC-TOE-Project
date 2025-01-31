@@ -1,11 +1,13 @@
 ## Tic-Tac-Toe Game
 
 * A simple Tic-Tac-Toe game built using React and JavaScript.
+* 
 1. Features
 * [x] Play against another player
 * [x] Interactive UI
 * [x] Tracks the winner
 * [x] Rename Players
+* [ ] 
 2. Technologies Used
 * [x] React
 * [x] JavaScript (ES6+)
