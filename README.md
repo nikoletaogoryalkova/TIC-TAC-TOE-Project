@@ -7,7 +7,7 @@
 * [x] Interactive UI
 * [x] Tracks the winner
 * [x] Rename Players
-* [ ] 
+  
 2. Technologies Used
 * [x] React
 * [x] JavaScript (ES6+)
